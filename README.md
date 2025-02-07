@@ -1,6 +1,3 @@
-Here is a well-structured **README** for your **Gold Price Prediction - Best Model Analysis** project:  
-
----
 
 # 📈 Gold Price Prediction - Best Model Analysis  
 
@@ -55,4 +52,3 @@ Among all models, **XGBoost and LSTM** showed the best accuracy for predicting f
 - Experimenting with **Transformer-based models** for better predictions  
 - Building a **real-time dashboard** for price tracking  
 
-Let me know if you need modifications! 😊
